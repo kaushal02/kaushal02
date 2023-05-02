@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a software developer at Traceable AI
-- 💬 Ask me about Spirituality and Mindfulness
+- 💬 Talk to me about Spirituality and Mindfulness
 - 🌱 I love Mathematics and coding 💻
 - 📫 Email me at kaushal0181@gmail.com
