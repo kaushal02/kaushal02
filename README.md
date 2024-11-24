@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+++++++++[>++++>++++++++>+++++++++>++++++++++>+++++++++++<<<<<-]>>>+++++.>>+.<<<<.>>+.<+.>-.<++++.<.>>----.>+++.<<<.>>++.<----.>>++.--.<---.<.>++++.
+
 <!--
 **kaushal02/kaushal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a software developer at Traceable AI
+- 🔭 I’m currently working as a Senior Software Engineer at Cequence AI
 - 💬 Talk to me about Spirituality and Mindfulness
 - 🌱 I love Mathematics and coding 💻
 - 📫 Email me at kaushal0181@gmail.com
